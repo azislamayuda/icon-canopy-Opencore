@@ -1,5 +1,5 @@
 # icon-canopy-Opencore
-Icon &amp; backgorund for opencore 0.6.6 
+Icon &amp; background for opencore 0.6.6 and newer
 
 # Modern icon
 
